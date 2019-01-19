@@ -1,24 +1,14 @@
 {
-  "name": "friendFinder",
+  "name": "app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mollygilbert389/friendFinder.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mollygilbert389/friendFinder/issues"
-  },
-  "homepage": "https://github.com/mollygilbert389/friendFinder#readme",
   "dependencies": {
     "express": "^4.16.4"
   }
