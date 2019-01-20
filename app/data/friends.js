@@ -1,7 +1,7 @@
 module.exports = [
     {
     name: "Molly",
-    photo: "https//media.test",
+    photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSIyFKG6jm6hqlMIAXtguMNuCXWKqR2kjm83xDzEgzcia0yfpdA",
     scores: [
         5,
         1,

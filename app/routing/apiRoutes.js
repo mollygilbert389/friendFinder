@@ -1,8 +1,11 @@
 var path = require("path");
+var friendData = require("../data/friends.js")
 
 module.exports = function (app) {
     var friendsList = [];
     var bestMatches = [];
+
+friendsList.push(friendData)
 
 app.get("/api/friends", function (req, res) {
         res.json(friendsList);
