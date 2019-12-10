@@ -1,6 +1,6 @@
 <h1> Friend Finder </h1>
 
-This app was created using Bootstrap, HTML, api Routes and Express. Using a form and an algorithm users can take a survey and receive results based on our matching algorithm. Once the user clicks the submit button, a modal will appear with the results based on who else has taken this survey, and been added to the JSON file. 
+This app was created using Bootstrap, HTML, Routes, Express and a matching algorithm to generate results. Using a form and an simple algorithm users can take a survey and receive results. Once the user clicks the submit button, a modal will appear with the results based on who else has taken this survey. 
 
 <h2> Dependencies </h2>
 
