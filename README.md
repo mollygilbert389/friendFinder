@@ -1,13 +1,25 @@
-<h1> Friend Finder </h1>
+# Friend Finder
 
-This app was created using Bootstrap, HTML, Routes, Express and a matching algorithm to generate results. Using a form and an simple algorithm users can take a survey and receive results. Once the user clicks the submit button, a modal will appear with the results based on who else has taken this survey. 
+## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Questions](#questions)
 
-<h2> Dependencies </h2>
+## Description
+This app was created using JavaScript, Bootstrap, Express and a matching algorithm to generate results. Using a form and a simple algorithm users can take a survey and receive results on who their newest friend should be. Once the user clicks the submit button, a modal will appear with the results based on other users who have taken this survey
 
-Express
+## Images
+https://user-images.githubusercontent.com/29104770/56520574-c460b680-6512-11e9-8d8b-4afb908ce847.png
+  
+## Usage
+1. Clone it down. 
+2. Run npm i.
+3. Run npm start at the root level.
 
-<img width="1150" alt="Screen Shot 2019-04-22 at 3 04 24 PM" src="https://user-images.githubusercontent.com/29104770/56520571-c32f8980-6512-11e9-9fac-4ef4ef31ce5e.png">
-<img width="1246" alt="Screen Shot 2019-04-22 at 3 04 34 PM" src="https://user-images.githubusercontent.com/29104770/56520574-c460b680-6512-11e9-8d8b-4afb908ce847.png">
-<img width="600" alt="Screen Shot 2019-04-22 at 3 06 07 PM" src="https://user-images.githubusercontent.com/29104770/56520575-c4f94d00-6512-11e9-80b3-d259f46cd654.png">
+## Questions
+Please see my github: [Gihub Profile](https://github.com/mollygilberet389)
+<br>You can ask me questions here: msgilbrt389@gmail.com
+
 
 
